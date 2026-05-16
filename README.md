@@ -1,6 +1,8 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=30&pause=1000&color=2E7D32&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Naila+Rizki!+%F0%9F%91%8B;Software+Engineer;Project+Manager;Lifelong+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=32&pause=2000&color=1A1A1A&center=true&vCenter=true&width=600&height=50&lines=Hi+there%2C+I'm+Naila+Rizki!+%F0%9F%91%8B" alt="Naila's Animated Header" />
 </div>
+
+<h3 align="center" style="color: #4A6B4C; font-weight: 400; margin-top: -10px;">Software Engineer | Project Manager | Lifelong Learner</h3>
 
 <p align="center">
   <em>"One important thing I've always done is grow and impact for others!"</em>
@@ -45,7 +47,7 @@ I am a passionate **Software Engineering student** and **Web Developer** based i
 
 ### 🎓 Languages & Certifications
 
-- 🌍 **Languages:** Indonesian (Native) | English (Professional Working Proficiency -  IELTS: 7.0 | TOEIC: 850)
+- 🌍 **Languages:** Indonesian (Native) | English (Professional Working Proficiency - IELTS: 7.0 | TOEIC: 850)
 - 📜 **CERTIPORT IT Specialist - JavaScript** (Score: 880)
 - 📜 **BNSP Junior Web Programming Certification** (Python, Django Framework)
 - 📜 **TOEFL Advanced 1 Certification**
@@ -87,5 +89,7 @@ I am a passionate **Software Engineering student** and **Web Developer** based i
 
 ### 📈 GitHub Analytics
 
-[![Naila's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rootxnaila&show_icons=true&theme=radical&hide_border=true)](https://github.com/rootxnaila)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rootxnaila&layout=compact&theme=radical&hide_border=true)](https://github.com/rootxnaila)
+<p align="left">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=rootxnaila&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Naila's GitHub Stats" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rootxnaila&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
