@@ -1,6 +1,6 @@
-<h1 align="center">Hi there, I'm Naila Rizki! 👋</h1>
-
-<h3 align="center">Software Engineer | Project Manager | Lifelong Learner</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=30&pause=1000&color=2E7D32&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Naila+Rizki!+%F0%9F%91%8B;Software+Engineer;Project+Manager;Lifelong+Learner" alt="Typing SVG" />
+</div>
 
 <p align="center">
   <em>"One important thing I've always done is grow and impact for others!"</em>
@@ -86,7 +86,6 @@ I am a passionate **Software Engineering student** and **Web Developer** based i
 <br>
 
 ### 📈 GitHub Analytics
-<div align="left">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=rootxnaila&show_icons=true&theme=radical&hide_border=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rootxnaila&layout=compact&theme=radical&hide_border=true" />
-</div>
+
+[![Naila's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rootxnaila&show_icons=true&theme=radical&hide_border=true)](https://github.com/rootxnaila)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rootxnaila&layout=compact&theme=radical&hide_border=true)](https://github.com/rootxnaila)
