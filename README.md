@@ -60,7 +60,8 @@ I am a passionate **Software Engineering student** and **Web Developer** based i
   > Developed the UI for a web-based helpdesk ticketing system using React, Laravel, and PostgreSQL, improving issue reporting efficiency for campus staff.
 - **Project Manager** @ *Mirage Project (MedTrack)* (Jul 2023 - Sep 2023)
   > Led the *MedTrack* medical web project. Formulated efficient requirement-gathering processes that successfully reduced project completion time by 15%.
-- **Project Manager** @ *KiMi Project* > Led the development of a maternal and child healthcare application focused on early stunting detection and baby blues monitoring. The project gained significant traction, was successfully demonstrated to the East Java Provincial Education Office (*Dindik Jatim*), and received formal acknowledgment from the East Java Provincial Health Office (*Dinkes Jatim*).
+- **Project Manager** @ *KiMi Project*
+  > Led the development of a maternal and child healthcare application focused on early stunting detection and baby blues monitoring. The project gained significant traction, was successfully demonstrated to the East Java Provincial Education Office (*Dindik Jatim*), and received formal acknowledgment from the East Java Provincial Health Office (*Dinkes Jatim*).
 
 ---
 
