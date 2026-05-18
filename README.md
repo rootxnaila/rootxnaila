@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=32&pause=2000&color=1A1A1A&center=true&vCenter=true&width=600&height=50&lines=Hi+there%2C+I'm+Naila+Rizki!+%F0%9F%91%8B" alt="Naila's Animated Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=32&pause=2000&color=1A1A1A&center=true&vCenter=true&width=600&height=50&lines=Hi+there%2C+I'm+Naila+Rizki!+%F0%9F%99%8C%F0%9F%8F%BC" alt="Naila's Animated Header" />
 </div>
 
 <h3 align="center" style="color: #4A6B4C; font-weight: 400; margin-top: -10px;">Software Engineer | Project Manager | Lifelong Learner</h3>
@@ -39,42 +39,17 @@ I am a passionate **Software Engineering student** and **Web Developer** based i
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 </p>
 
 ---
 
-### 🎓 Languages & Certifications
-
-- 🌍 **Languages:** Indonesian (Native) | English (Professional Working Proficiency - IELTS: 7.0 | TOEIC: 850)
-- 📜 **CERTIPORT IT Specialist - JavaScript** (Score: 880)
-- 📜 **BNSP Junior Web Programming Certification** (Python, Django Framework)
-- 📜 **TOEFL Advanced 1 Certification**
-
----
-
-### 💼 Professional & Project Experience
+### 💼 Professional Experience
 
 - **Project Assistant Manager** @ *Platolabs Inc* (Apr 2025 - Present)
   > Bridging law and tech in a legaltech environment. Coordinating teams, tracking milestones, and streamlining digital workflows.
 - **Intern Web Developer** @ *Information and Technology Centre, UM* (Jul 2024 - Jan 2025)
   > Developed the UI for a web-based helpdesk ticketing system using React, Laravel, and PostgreSQL, improving issue reporting efficiency for campus staff.
-- **Project Manager** @ *Mirage Project (MedTrack)* (Jul 2023 - Sep 2023)
-  > Led the *MedTrack* medical web project. Formulated efficient requirement-gathering processes that successfully reduced project completion time by 15%.
-- **Project Manager** @ *KiMi Project*
-  > Led the development of a maternal and child healthcare application focused on early stunting detection and baby blues monitoring. The project gained significant traction, was successfully demonstrated to the East Java Provincial Education Office (*Dindik Jatim*), and received formal acknowledgment from the East Java Provincial Health Office (*Dinkes Jatim*).
-
----
-
-### 🏆 Selected Achievements
-
-- 🥇 **1st Place Winner - LPDP x 17 August University Business Competition**
-  > Spearheaded the business and development strategy for *LaporNdan*, Indonesia's first AI-based crime reporting platform.
-- 🏅 **4th Place National Winner - FIKSI 2023 (Kemendikbudristek RI)**
-  > Awarded at the National Student Innovation and Entrepreneurship Festival (FIKSI) held by the Indonesian Ministry of Education, Culture, Research, and Technology for the *MedTrack* innovation.
-- 💡 **Lead Developer & PM - BiteBook**
-  > Managed project execution for an innovative educational literacy platform where students earn lunch through reading.
 
 ---
 
