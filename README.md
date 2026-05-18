@@ -89,7 +89,6 @@ I am a passionate **Software Engineering student** and **Web Developer** based i
 
 ### 📈 GitHub Analytics
 
-<p align="left">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=rootxnaila&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Naila's GitHub Stats" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rootxnaila&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rootxnaila&theme=radical&hide_border=true" alt="Naila's GitHub Streak" />
 </p>
